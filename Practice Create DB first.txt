@@ -1,0 +1,5 @@
+DB instance name : dicodingaws
+username : awsdicoidng
+password : qwerty123
+
+database name dicodingaws_db

@@ -1,0 +1,5 @@
+1. Tanggal Submission : 19/05/2019
+2. Email : muhrizqi@student.ce.undip.ac.id 
+	   rizky775@gmail.com (implementasi IAM- Activate MFA)
+3. Servis : IAM-MFA, Bucket-S3, Static Web-S3, Virtual Machine Amazon-EC2, AMI
+4. Endpoint Static Web - S3 :  https://s3-ap-southeast-1.amazonaws.com/statis-web/index.html
